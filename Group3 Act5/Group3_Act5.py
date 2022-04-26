@@ -1,7 +1,3 @@
-#Problem 3:
-#Create a program that will give an output as shown on figure A.
-#The program will ask to input three customers information.
-#Each customer have three items purchased. Used the given structure below.
 
 def name():
 	firstName = input("First Name: ")
