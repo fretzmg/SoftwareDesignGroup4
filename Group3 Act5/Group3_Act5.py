@@ -4,6 +4,11 @@ def name():
 	lastName = input("Last Name: ")
 	return lastName, firstName
 
+def name():
+	firstName = input("First Name: ")
+	lastName = input("Last Name: ")
+	return lastName, firstName
+
 def item():
 	itemCode = input("ID: ")
 	itemName = input("Name: ")
